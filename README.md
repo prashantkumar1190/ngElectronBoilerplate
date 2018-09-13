@@ -1,0 +1,2 @@
+# ngElectronBoilerplate
+Angular Electron Boilerplate
